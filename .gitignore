@@ -1,0 +1,6 @@
+fit-flow-clint/node_modules
+fit-flow-clint/.env.local
+
+
+fit-flow-server/node_modules
+fit-flow-server/.env
